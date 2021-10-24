@@ -21,3 +21,5 @@ config.core.php
 /assets/*
 #!/assets/components/
 !/assets/template/
+robots.txt
+testmap/
